@@ -4,8 +4,8 @@ go 1.26.0
 
 require (
 	github.com/charmbracelet/lipgloss v1.1.0
-	github.com/digital-foxy/card-fetcher v1.0.75
-	github.com/digital-foxy/card-parser v1.0.75
+	github.com/digital-foxy/card-fetcher v1.0.76
+	github.com/digital-foxy/card-parser v1.0.77
 	github.com/digital-foxy/toolkit v1.0.75
 	github.com/rs/zerolog v1.35.0
 	github.com/schollz/progressbar/v3 v3.19.0
@@ -35,7 +35,6 @@ require (
 	github.com/danieljoos/wincred v1.2.3 // indirect
 	github.com/digital-foxy/chromex v1.0.75 // indirect
 	github.com/elliotchance/orderedmap/v3 v3.1.0 // indirect
-	github.com/gen2brain/jpegli v0.3.4 // indirect
 	github.com/go-json-experiment/json v0.0.0-20260214004413-d219187c3433 // indirect
 	github.com/gobwas/httphead v0.1.0 // indirect
 	github.com/gobwas/pool v0.2.1 // indirect
@@ -59,6 +58,7 @@ require (
 	github.com/mitchellh/colorstring v0.0.0-20190213212951-d06e56a500db // indirect
 	github.com/muesli/termenv v0.16.0 // indirect
 	github.com/pdfcpu/pdfcpu v0.11.1 // indirect
+	github.com/pixiv/go-libjpeg v0.0.0-20190822045933-3da21a74767d // indirect
 	github.com/pkg/errors v0.9.1 // indirect
 	github.com/quic-go/qpack v0.6.0 // indirect
 	github.com/quic-go/quic-go v0.58.0 // indirect
@@ -66,15 +66,16 @@ require (
 	github.com/rivo/uniseg v0.4.7 // indirect
 	github.com/russross/blackfriday/v2 v2.1.0 // indirect
 	github.com/spf13/cast v1.10.0 // indirect
+	github.com/stretchr/objx v0.5.3 // indirect
 	github.com/sunshineplan/imgconv v1.1.14 // indirect
 	github.com/sunshineplan/pdf v1.0.8 // indirect
-	github.com/tetratelabs/wazero v1.11.0 // indirect
 	github.com/twitchyliquid64/golang-asm v0.15.1 // indirect
 	github.com/xo/terminfo v0.0.0-20220910002029-abceb7e1c41e // indirect
 	github.com/xrash/smetrics v0.0.0-20250705151800-55b8f293f342 // indirect
 	github.com/zalando/go-keyring v0.2.8 // indirect
 	golang.org/x/arch v0.25.0 // indirect
 	golang.org/x/crypto v0.49.0 // indirect
+	golang.org/x/exp v0.0.0-20260312153236-7ab1446f8b90 // indirect
 	golang.org/x/image v0.38.0 // indirect
 	golang.org/x/net v0.52.0 // indirect
 	golang.org/x/sys v0.42.0 // indirect
