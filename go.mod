@@ -4,8 +4,8 @@ go 1.26.0
 
 require (
 	github.com/charmbracelet/lipgloss v1.1.0
-	github.com/digital-foxy/card-fetcher v1.0.76
-	github.com/digital-foxy/card-parser v1.0.77
+	github.com/digital-foxy/card-fetcher v1.0.77
+	github.com/digital-foxy/card-parser v1.0.78
 	github.com/digital-foxy/toolkit v1.0.75
 	github.com/rs/zerolog v1.35.0
 	github.com/schollz/progressbar/v3 v3.19.0
